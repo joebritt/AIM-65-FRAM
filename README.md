@@ -2,6 +2,8 @@
 
 Nonvolatile FRAM memory replacement for 2332 ROM used by the Rockwell AIM-65.
 
+<a href="https://oshpark.com/shared_projects/X4W64rqJ"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
+
 <p align="middle">
   <img src="PXL_20201108_224736572.jpg" width="550" title="Image 1">
   <img src="PXL_20201108_224743412.jpg" width="550" title="Image 2">
