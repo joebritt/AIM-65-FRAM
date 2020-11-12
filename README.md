@@ -20,6 +20,6 @@ A12 may also be tied to an I/O pin, such as from one of the 6522s, to allow prog
 While the memory is true read/write, the Single Step circuitry on the AIM-65 requires A15, A14, and A13 to all be LOW.
 As a result, you can't single-step through code in this memory.
 
-Not directly related, but I also had to make new LED display supports for my AIM-65. A tested (in used now!)
+Not directly related, but I also had to make new LED display supports for my AIM-65. A tested (in use now!)
 3D-printable design can be found 
 <a href="https://cad.onshape.com/documents/efebfeba35798ffd247abe96/w/842ecc41860fff750f9e59dd/e/60049825f7dbb6890abf0c50">here.</a>
